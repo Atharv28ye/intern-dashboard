@@ -88,7 +88,6 @@ Reward claim functionality with transaction history
 
 Atharv Puranik  
 GitHub: https://github.com/Atharv28ye  
-LinkedIn: https://linkedin.com/in/atharvpuranik
+LinkedIn: www.linkedin.com/in/atharv-puranik
 
 
-This project is free to use for learning or demonstration purposes.
