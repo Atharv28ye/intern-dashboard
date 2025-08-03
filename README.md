@@ -59,7 +59,7 @@ Example response:
 
 6) How to Run
 
-Make sure you have Java and Maven installed.
+Make sure you have Java  installed.
 
 To run the backend:
 
@@ -67,12 +67,14 @@ Open terminal or PowerShell
 Navigate to the project folder  
 Run the following command
 
-mvn spring-boot:run
+node Server.js
 
 To view the frontend:
+Open terminal or PowerShell  
+Navigate to the project folder  
+Run the following command
 
-Simply open index.html or dashboard.html in any web browser  
-Or use a static file server to host them locally
+npm start
 
 7) Future Improvements
 
